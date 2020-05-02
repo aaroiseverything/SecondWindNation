@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "89376586531",
+    "firebase_url": "https://secondwinddb.firebaseio.com",
+    "project_id": "secondwinddb",
+    "storage_bucket": "secondwinddb.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:89376586531:android:b7e803ed713399eb8e2a96",
+        "android_client_info": {
+          "package_name": "com.example.secondwindnation"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "89376586531-uq2lrjuc87ojmoktb21vq96rnde6tgi6.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAFnDqpZ-ObOtYTpWvFCjQTeTKNhWzlaDI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "89376586531-uq2lrjuc87ojmoktb21vq96rnde6tgi6.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
